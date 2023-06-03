@@ -1,5 +1,5 @@
 # React/Typescript 
 
-## JOO SUNGJAE HANS's portfolio
+## Hans Hotel
 You can access in [here](https://hohuns.github.io/Hans-hotel/)
 
